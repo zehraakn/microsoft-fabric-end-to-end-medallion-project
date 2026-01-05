@@ -1,4 +1,4 @@
-# 🚀 End-to-End Data Engineering Project | Microsoft Fabric | Medallion Architecture
+# End-to-End Data Engineering Project | Microsoft Fabric | Medallion Architecture
 
 This repository showcases a **production-style end-to-end data engineering solution**
 built using **Microsoft Fabric** and the **Medallion Architecture (Bronze, Silver, Gold layers)**.
